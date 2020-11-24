@@ -3,12 +3,12 @@
 
 Hate 996? Come Here & Relax~
 
-最近用Vue + Tone.js做了一款钢琴类web应用，名字定为自由钢琴（AutoPiano），人生如音乐，欢快且自由。
+Recently I made a piano web application with Vue + Tone.js, named AutoPiano, life is like music, joyful and free.
 
-此文权当作该项目的总结和分享~
+This article is used as a summary and sharing of the project~
 
-## 项目简介
-自由钢琴（AutoPiano）是利用HTML5技术开发的在线钢琴应用，致力于为钢琴爱好者、音乐爱好者以及其他所有的创造者提供一个优雅、简洁的平台，在学习工作之余可以享受钢琴、音乐的美好。就类似于多年前Flash开发的钢琴游戏，自由钢琴只是换了H5的技术，同时支持了钢琴曲的**自动播放**功能。
+## Project Description
+AutoPiano is an online piano application developed using HTML5 technology. It is committed to providing an elegant and concise platform for piano lovers, music lovers and all other creators. You can enjoy piano and music while you are studying or working. Beautiful. Similar to the piano game developed by Flash many years ago, Free Piano just changed the H5 technology, and at the same time supports the **automatic playback** function of piano music.
 
 AutoPiano支持键盘按键和鼠标点击播放，同时琴键上会有按键和音名提示。另外，AutoPiano还有教学的功能，一种方式是``快速入门``，通过简易的谱子按键进行演奏，另一种是``演奏示例``，通过钢琴曲的自动播放来达到演示的目的。目前这两个功能都在持续完善中，如下图所示：
 
