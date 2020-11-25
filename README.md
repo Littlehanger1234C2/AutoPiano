@@ -240,3 +240,6 @@ playNote(notename = 'C4', duration = '2n') {
 
 
 原创不易，转载分享时请注明出处~
+
+## TRANSLATE IS NOT DUN YET! A🔄种
+TRANSLATING SOME PARTS! A🔄种
